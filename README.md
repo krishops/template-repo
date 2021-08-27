@@ -21,15 +21,16 @@
 4. Navigate to the my-project/ directory on your computer
 5. Open with your preferred text editor to view the code base
 6. Update code to match name of project:
-  * webpac.config.js - line 19
-  * package.json - line 2
-  * package-lock.json - line 2
-  * index.html - line 4
-8. To start a development server and view the project in the browser:
-  * Navigate to my-project/ in your command line
-  * Run the command `npm install` to install dependencies
-  * Optionally, run the commmand `npm run build` to make a bundle of the files
-  * Finally, run the command `npm run start` to start a development server
+   * webpac.config.js - line 19
+   * package.json - line 2
+   * package-lock.json - line 2
+   * index.html - line 4
+7. To start a development server and view the project in the browser:
+   * Navigate to my-project/ in your command line
+   * Run the command `npm install` to install dependencies
+   * Optionally, run the commmand `npm run build` to make a bundle of the files
+   * Finally, run the command `npm run start` to start a development server
+ 
 To run tests, navigate to my-project/ in your terminal and run the command `npm run test`
 
 ## Known Bugs
